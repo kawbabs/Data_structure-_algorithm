@@ -1,0 +1,21 @@
+Analysis:
+
+Task 0
+- the running time is not dependent of the input
+-hence, time complexity = O(1)
+
+Task 1
+- the time would increase as the data to be read from the dataset increases
+- Hence, time complexity is linear and = O(n)
+
+Task 2
+- The algorithm is linear, the for loop runs at a timing proportioonal to n
+- Thus, complexity = O(n)
+
+Task 3
+- the algorithm is linear, however there is a sorting function with compelexity of O(nLog(n))
+- Thus, complexity = O(nLog(n))
+
+Task 4
+- Also complexity = O(nLog(n))
+- It's linear but also has a sorting function
